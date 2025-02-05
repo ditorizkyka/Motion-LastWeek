@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "529154679669",
+    "project_id": "learn-motion-3f879",
+    "storage_bucket": "learn-motion-3f879.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529154679669:android:4ea3c564ce9e145c62e93c",
+        "android_client_info": {
+          "package_name": "com.example.motion_flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv7OJDJFlzbCeMY_C60tFhXy_CJ_dS7CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
